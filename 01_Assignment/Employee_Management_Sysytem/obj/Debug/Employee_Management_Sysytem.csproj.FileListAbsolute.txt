@@ -1,0 +1,15 @@
+D:\Sagar\C#\Assignments\01_Assignment\Employee_Management_Sysytem\bin\Debug\Employee_Management_Sysytem.exe.config
+D:\Sagar\C#\Assignments\01_Assignment\Employee_Management_Sysytem\bin\Debug\Employee_Management_Sysytem.exe
+D:\Sagar\C#\Assignments\01_Assignment\Employee_Management_Sysytem\bin\Debug\Employee_Management_Sysytem.pdb
+D:\Sagar\C#\Assignments\01_Assignment\Employee_Management_Sysytem\obj\Debug\Employee_Management_Sysytem.csproj.AssemblyReference.cache
+D:\Sagar\C#\Assignments\01_Assignment\Employee_Management_Sysytem\obj\Debug\Employee_Management_Sysytem.frm_Login_Form.resources
+D:\Sagar\C#\Assignments\01_Assignment\Employee_Management_Sysytem\obj\Debug\Employee_Management_Sysytem.Properties.Resources.resources
+D:\Sagar\C#\Assignments\01_Assignment\Employee_Management_Sysytem\obj\Debug\Employee_Management_Sysytem.csproj.GenerateResource.cache
+D:\Sagar\C#\Assignments\01_Assignment\Employee_Management_Sysytem\obj\Debug\Employee_Management_Sysytem.csproj.CoreCompileInputs.cache
+D:\Sagar\C#\Assignments\01_Assignment\Employee_Management_Sysytem\obj\Debug\Employee_Management_Sysytem.exe
+D:\Sagar\C#\Assignments\01_Assignment\Employee_Management_Sysytem\obj\Debug\Employee_Management_Sysytem.pdb
+D:\Sagar\C#\Assignments\01_Assignment\Employee_Management_Sysytem\obj\Debug\Employee_Management_Sysytem.frm_Add_Employee.resources
+D:\Sagar\C#\Assignments\01_Assignment\Employee_Management_Sysytem\obj\Debug\Employee_Management_Sysytem.frm_View_Employee_List.resources
+D:\Sagar\C#\Assignments\01_Assignment\Employee_Management_Sysytem\bin\Debug\System.Data.SqlClient.dll
+D:\Sagar\C#\Assignments\01_Assignment\Employee_Management_Sysytem\bin\Debug\System.Data.SqlClient.xml
+D:\Sagar\C#\Assignments\01_Assignment\Employee_Management_Sysytem\obj\Debug\Employee_Management_Sysytem.csproj.CopyComplete
