@@ -94,19 +94,19 @@ namespace Student_Management_System
                 lbl_Languages_Error.Visible = false;
             }
 
-            else if(cb_Hindi.Checked == true)
+            if(cb_Hindi.Checked == true)
             {
                 Result += cb_Hindi.Text + ", ";
                 lbl_Languages_Error.Visible = false;
             }
 
-            else if(cb_English.Checked == true)
+            if(cb_English.Checked == true)
             {
                 Result += cb_English.Text + ", ";
                 lbl_Languages_Error.Visible = false;
             }
 
-            else if(cb_French.Checked == true)
+            if(cb_French.Checked == true)
             {
                 Result += cb_French.Text + ", ";
                 lbl_Languages_Error.Visible = false;
